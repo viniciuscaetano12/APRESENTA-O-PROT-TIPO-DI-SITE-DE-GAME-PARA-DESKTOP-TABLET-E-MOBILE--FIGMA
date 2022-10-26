@@ -1,1 +1,4 @@
 # APRESENTA-O-PROT-TIPO-DI-SITE-DE-GAME-PARA-DESKTOP-TABLET-E-MOBILE--FIGMA
+
+
+![PROJETO GAME_MANIA E-PLAYERS versão TABLET](https://user-images.githubusercontent.com/111949554/197940989-62319f79-12f2-4f43-a5e2-dabb52ceea7a.PNG)![PROJETO GAME_MANIA E-PLAYERS versão MOBILE](https://user-images.githubusercontent.com/111949554/197940970-0ed71fac-737a-40ec-bbd4-624a14b83b6d.PNG)![PROJETO DE SITE DE GAME - COD FRONT-END](https://user-images.githubusercontent.com/111949554/197941019-7d9438d2-2eaa-49a4-971f-af9dae82cdd1.PNG)
